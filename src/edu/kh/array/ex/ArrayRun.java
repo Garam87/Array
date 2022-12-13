@@ -13,7 +13,16 @@ public class ArrayRun {
 //		ae.ex4();
 //		ae.ex5();
 //		ae.ex6();
-		ae.ex7();
+//		ae.ex7();
+//		ae.ex8();
+		
+		ArrayExample2 ae2 = new ArrayExample2();
+		
+//		ae2.shallowCopy();
+//		ae2.deepCopy();
+//		ae2.createLottoNumber();
+		ae2.createLotto2();
+		
 	}
 
 }
